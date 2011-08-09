@@ -1,0 +1,14 @@
+[user]
+	name = Rory McKinley
+	email = rorymckinley@gmail.com
+[github]
+	user = rorymckinley
+[core]
+  editor = vim
+	excludesfile = /home/rory/.gitignore
+[push]
+	default = current
+[alias]
+  po = push origin
+  st = status
+  cv = commit -v
