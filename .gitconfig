@@ -5,10 +5,14 @@
 	user = rorymckinley
 [core]
   editor = vim
-	excludesfile = /home/rory/.gitignore
+	excludesfile = /home/rory/.dotfiles/.gitignore
 [push]
 	default = current
 [alias]
   po = push origin
   st = status
   cv = commit -v
+[diff]
+  external = ~/.dotfiles/git_diff_wrapper
+[pager]
+  diff =
