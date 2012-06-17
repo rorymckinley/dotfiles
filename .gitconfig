@@ -1,6 +1,7 @@
 [user]
 	name = Rory McKinley
 	email = rorymckinley@gmail.com
+	signingkey = 6694BB39
 [github]
 	user = rorymckinley
 [core]
@@ -12,6 +13,7 @@
   po = push origin
   st = status
   cv = commit -v
+  csv = commit -S -v
 [diff]
   external = ~/.dotfiles/git_diff_wrapper
 [pager]
