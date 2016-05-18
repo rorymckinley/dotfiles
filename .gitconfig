@@ -18,3 +18,5 @@
   external = ~/.dotfiles/git_diff_wrapper
 [pager]
   diff =
+[gpg]
+	program = /usr/bin/gpg2
