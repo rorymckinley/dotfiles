@@ -12,6 +12,7 @@ Plug 'tmhedberg/matchit'
 Plug 'kana/vim-textobj-user'
 Plug 'nelstrom/vim-textobj-rubyblock'
 Plug 'ervandew/supertab'
+Plug 'sheerun/vim-polyglot'
 " Colorscheme
 Plug 'tomasr/molokai'
 Plug 'broduo/broduo-color-scheme'
