@@ -14,6 +14,7 @@
   st = status
   cv = commit -v
   csv = commit -S -v
+  reb = rebase -i --gpg-sign=rorymckinley@gmail.com master
 [diff]
   external = ~/.dotfiles/git_diff_wrapper
 [pager]
