@@ -13,6 +13,8 @@ Plug 'kana/vim-textobj-user'
 Plug 'nelstrom/vim-textobj-rubyblock'
 Plug 'ervandew/supertab'
 Plug 'sheerun/vim-polyglot'
+Plug 'w0rp/ale'
+Plug 'posva/vim-vue'
 " Colorscheme
 Plug 'tomasr/molokai'
 Plug 'broduo/broduo-color-scheme'
